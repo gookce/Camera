@@ -1,0 +1,1 @@
+C:\Users\MS-USER\Documents\CameraGetPreviewFrame\CameraGetPreviewFrame\cs\CameraGetPreviewFrame.csproj;x86
